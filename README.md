@@ -6,12 +6,12 @@
 
 ## Dashboard Features
 
+- Sample UI Kit: **Azia Dashboard PRO** provided by **BootstrapDash**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- Sample UI Kit: **Azia Dashboard PRO** provided by **BootstrapDash**
-- **Commercial License**
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
 - 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
 > Links
@@ -19,6 +19,8 @@
 - [Django Dashboard Azia PRO](https://django-dashboard-azia-pro.appseed.us/) - LIVE Demo
 - [Django Dashboard Azia PRO](https://appseed.us/admin-dashboards/django-dashboard-azia-pro) - Official product page
 - [Django Dashboard Azia PRO](https://github.com/app-generator/django-dashboard-azia-pro) - Starter docs
+- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
+- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
