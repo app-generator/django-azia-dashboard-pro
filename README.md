@@ -1,10 +1,6 @@
 # [Django Dashboard Azia PRO](https://appseed.us/admin-dashboards/django-dashboard-azia-pro)
 
-> Commercial product - **Django Dashboard** coded on top of **Azia Dashboard PRO** crafted by **BootstrapDash**.
-
-<br />
-
-## Dashboard Features
+> Commercial product - **Django Dashboard** coded on top of **Azia Dashboard PRO** crafted by **BootstrapDash** - Features:
 
 - Sample UI Kit: **Azia Dashboard PRO** provided by **BootstrapDash**
 - UI-Ready app, SQLite Database, Django Native ORM
