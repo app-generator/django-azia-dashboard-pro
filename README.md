@@ -1,14 +1,15 @@
 # [Django Dashboard Azia PRO](https://appseed.us/admin-dashboards/django-dashboard-azia-pro)
 
-> Commercial product - **Django Dashboard** coded on top of **Azia Dashboard PRO** crafted by **BootstrapDash** - Features:
+Azia is a PREMIUM Bootstrap 4 admin & dashboard template featuring components that are built to fit perfectly with each other. It offers a clean interface that can be easily adapted to fit your vision and branding. Azia features many essential utilities classes that can help cut down CSS bloat and modify CSS components instantly.
+
+> App Features:
 
 - Sample UI Kit: **Azia Dashboard PRO** provided by **BootstrapDash**
-- UI-Ready app, SQLite Database, Django Native ORM
-- Modular design, clean code-base
+- SQLite Database, Django Native ORM
+- Modular design, clean codebase
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
