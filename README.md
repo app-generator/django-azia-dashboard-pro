@@ -20,7 +20,7 @@
 
 <br />
 
-![Django Dashboard Azia PRO - Admin Dashboard coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-azia-pro/master/media/django-dashboard-azia-pro-screen.png)
+![Django Dashboard Azia PRO - Admin Dashboard coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-azia-pro/master/media/django-dashboard-azia-pro-screen-2.png)
 
 <br />
 
