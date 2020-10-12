@@ -1,23 +1,44 @@
-# [Django Dashboard Azia PRO](https://appseed.us/admin-dashboards/django-dashboard-azia-pro)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - Azia Dashboard PRO
 
-Azia is a PREMIUM Bootstrap 4 admin & dashboard template featuring components that are built to fit perfectly with each other. It offers a clean interface that can be easily adapted to fit your vision and branding. Azia features many essential utilities classes that can help cut down CSS bloat and modify CSS components instantly.
+**Django Dashboard** coded with basic modules, database, authentication and deployment scripts on top of **Azia Dashboard PRO** (premium version), a modern Bootstrap dashboard design. Azia Dashboard is a Bootstrap 4 admin & dashboard template featuring components that are built to fit perfectly with each other. It offers a clean interface that can be easily adapted to fit your vision and branding.
 
-> App Features:
+<br />
 
-- Sample UI Kit: **Azia Dashboard PRO** provided by **BootstrapDash**
-- SQLite Database, Django Native ORM
-- Modular design, clean codebase
+## [Django Dashboard](http://appseed.us/admin-dashboards/django) Features
+
+- Reference Codebase - [Django Dashboard Boilerplate](https://docs.appseed.us/boilerplate-code/django-dashboard)
+- UI-Ready app, SQLite Database, Django Native ORM
+- Modular design, best practices codebase
 - Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+- Deployment scripts: Docker, Gunicorn/Nginx
+- Support via Github (issues tracker) and Discord - 24/7 LIVE Service.
 
-> Links
+<br />
 
-- [Django Dashboard Azia PRO](https://django-dashboard-azia-pro.appseed.us/) - LIVE Demo
-- [Django Dashboard Azia PRO](https://appseed.us/admin-dashboards/django-dashboard-azia-pro) - Official product page
-- [Django Dashboard Azia PRO](https://github.com/app-generator/django-dashboard-azia-pro) - Starter docs
-- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
-- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
+**Links**
+
+- [Django Dashboard - Azia PRO](https://appseed.us/admin-dashboards/django-dashboard-azia-pro) - the product page
+- [Django Dashboard - Azia PRO Demo](https://django-dashboard-azia-pro.appseed.us/) - Default login credentials ** *test / ApS12_ZZs8* **
+- [Django Dashboard - Azia PRO Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-azia-pro/) - Product Documentation
+
+<br />
+
+## **[Azia Dashboard PRO](https://docs.appseed.us/bootstrap-template/azia-dashboard-pro/)** Design
+
+Azia Dashboard is a Bootstrap 4 admin & dashboard template featuring components that are built to fit perfectly with each other. It offers a clean interface that can be easily adapted to fit your vision and branding. Azia features many essential utility classes that can help cut down CSS bloat and modify CSS components instantly.
+
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+**Product Features**
+
+10+ essential Pages to get you started FAST, modern light and dark layouts, Horizontal and Vertical layouts, plus Cross Browser Compatibility.
+
+**Tooling**
+
+Build on top of Bootstrap 4, the open-source CSS framework that ensure fast prototyping. SASS, a Preprocessor that outputs well formated standard CSS, SASS is extremely useful for fast coding.
+
+- [Azia Dashboard](https://www.bootstrapdash.com/product/azia-admin/?ref=23) - Product page
+- [Azia Dashboard Documentation](https://www.bootstrapdash.com/product/azia-admin/?ref=23) - Available in the Product Page
 
 <br />
 
@@ -204,4 +225,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Django Dashboard Azia PRO](https://appseed.us/admin-dashboards/django-dashboard-azia-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard](http://appseed.us/admin-dashboards/django) **Azia Dashboard PRO** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
